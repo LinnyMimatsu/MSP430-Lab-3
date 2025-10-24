@@ -1,6 +1,6 @@
 
 /*
-Name: Linn
+Name: Dom
 Description: Sequence keypad using the MSP430. It will post a red LED if the sequence is wrong and green if the sequence is right.
 */
 #include <msp430.h>
@@ -59,4 +59,5 @@ int main(void)
     }
   }
 }
+
 
